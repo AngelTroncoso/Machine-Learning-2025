@@ -2,6 +2,7 @@
 Cursos de Machine learning de 4 modelos experimentados
 
 # Análisis de Riesgo Crediticio 
+![Riesgo Crediticio](https://liberties.imgix.net/images/c2bb6f26-9cb9-4148-bfd4-876fd9981ef1/slapp-01__1_.jpg?ixlib=rails-4.3.1&fm=jpg&auto=format&lossless=true&w=1440&h=902&fit=crop&s=50932f5935ed1d9d81ca8bbae20503a6)
 
 ## Descripción del Proyecto
 
